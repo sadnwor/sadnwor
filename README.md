@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadnwor/Vue_profile/main/public/img/main-background-4k.png" alt="Profile Banner" width="100%">
+  <img src="https://storage.googleapis.com/your-restaurant-image-bucket/avatar/wallhaven-x6rqed.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadnwor/Vue_profile/main/public/img/main-background-4k.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/sadnwor/front-end/main/public/img/wallhaven-po3dve.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">

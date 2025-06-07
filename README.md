@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NidnluZDVxNG54N3FpdDRhNWhoejU3Yzl6ODBlbnQ1YXlnZjdtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/sadnwor/front-end/main/public/img/wallhaven-po3dve.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">

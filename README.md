@@ -6,10 +6,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Hi">
   Xin chào, mình là Cao Văn Hảo!
 </h1>
-[cite_start]<h3 align="center">Một Full-stack Developer đến từ Việt Nam </h3>
+<h3 align="center">Một Full-stack Developer đến từ Việt Nam</h3>
 
 <p align="center">
-  [cite_start]<em>"Hành trình khám phá công nghệ, sáng tạo và những điều giản dị. Luôn cân bằng giữa logic code và vẻ đẹp khoảnh khắc."</em> 
+  <em>"Hành trình khám phá công nghệ, sáng tạo và những điều giản dị. Luôn cân bằng giữa logic code và vẻ đẹp khoảnh khắc."</em>
 </p>
 
 <p align="center">
@@ -88,14 +88,14 @@
 
 ### 🚀 Các Dự Án Nổi Bật
 
-**1. [cite_start]Ứng dụng Quản lý Quán ăn (Dự án tốt nghiệp)** 
+**1. Ứng dụng Quản lý Quán ăn (Dự án tốt nghiệp)**
 > Xây dựng ứng dụng desktop quản lý bán hàng, đặt bàn, và thống kê cho nhà hàng. Đây là dự án tâm huyết trong quá trình học của tôi.
 >
 > **Công nghệ:** `Java` `Java Swing` `SQL Server`
 >
 > <a href="https://github.com/Khanh2812/DuAn1" target="_blank">**Xem mã nguồn →**</a>
 
-**2. [cite_start]Trang Portfolio Cá nhân (Dự án này)** 
+**2. Trang Portfolio Cá nhân (Dự án này)**
 > Một trang portfolio động, thể hiện các kỹ năng và hành trình của bản thân một cách trực quan, có nhạc nền và các hiệu ứng tương tác.
 >
 > **Công nghệ:** `Vue.js` `JavaScript` `HTML/CSS` `Vite`
@@ -107,11 +107,11 @@
 ### 🌱 Sở thích của mình
 
 Ngoài việc code, tôi cũng thích dành thời gian cho những hoạt động này để tái tạo năng lượng:
-- [cite_start]📚 **Đọc sách:** Các thể loại khoa học viễn tưởng, kinh tế và lịch sử.
+- 📚 **Đọc sách:** Các thể loại khoa học viễn tưởng, kinh tế và lịch sử.
 - 🏍️ **Đi phượt:** Khám phá những cung đường mới và vẻ đẹp của Việt Nam.
-- [cite_start]🎮 **Chơi game:** Đặc biệt là các game chiến thuật đòi hỏi tư duy.
-- [cite_start]📸 **Nhiếp ảnh:** Ghi lại những khoảnh khắc đẹp của cuộc sống đường phố.
-- [cite_start]☕ **Pha chế cà phê:** Thử nghiệm và tận hưởng hương vị của các loại hạt khác nhau.
+- 🎮 **Chơi game:** Đặc biệt là các game chiến thuật đòi hỏi tư duy.
+- 📸 **Nhiếp ảnh:** Ghi lại những khoảnh khắc đẹp của cuộc sống đường phố.
+- ☕ **Pha chế cà phê:** Thử nghiệm và tận hưởng hương vị của các loại hạt khác nhau.
 
 ---
 
@@ -120,5 +120,3 @@ Ngoài việc code, tôi cũng thích dành thời gian cho những hoạt độ
 <p align="center">
   <img src="https://raw.githubusercontent.com/sadnwor/sadnwor/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid"/>
 </p>
-
----

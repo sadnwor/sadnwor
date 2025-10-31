@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadnwor/front-end/main/public/img/wallhaven-po3dve.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/harozx/front-end/main/public/img/wallhaven-po3dve.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -25,7 +25,7 @@
   <a href="mailto:caohao2k5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/sadnwor" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/harozx" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -35,12 +35,12 @@
 ### 📊 Thống kê GitHub của tôi
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadnwor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadnwor&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harozx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harozx&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadnwor&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harozx&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Trophy"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 >
 > **Công nghệ:** `Vue.js` `JavaScript` `HTML/CSS` `Vite`
 >
-> <a href="https://github.com/sadnwor" target="_blank">**Xem mã nguồn →**</a>
+> <a href="https://github.com/harozx" target="_blank">**Xem mã nguồn →**</a>
 
 ---
 
@@ -118,5 +118,5 @@ Ngoài việc code, tôi cũng thích dành thời gian cho những hoạt độ
 ### 🐍 Biểu đồ đóng góp của tôi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadnwor/sadnwor/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid"/>
+  <img src="https://raw.githubusercontent.com/harozx/harozx/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid"/>
 </p>

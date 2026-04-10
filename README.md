@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://hanlog.xyz"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.facebook.com/harrosis"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.tiktok.com/@haro.5_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://instagram.com/_hawor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -25,7 +26,8 @@ name: Cao Van Hao
 location: Vietnam 🇻🇳
 role: Full-Stack Developer
 education: Information Technology
-interests: ["Web Development", "Automation", "UI/UX Design"]
+portfolio: https://hanlog.xyz
+interests: ["Web Development", "Automation", "AI/TTS", "UI/UX Design"]
 currently_learning: ["Cloud Services", "DevOps", "System Design"]
 fun_fact: "I balance writing code with capturing life through a camera lens 📸"
 ```
@@ -125,46 +127,52 @@ fun_fact: "I balance writing code with capturing life through a camera lens 📸
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">⬇️ YT Downloader</h3>
+      <h3 align="center">🌐 Developer Portfolio</h3>
       <p align="center">
-        <a href="https://github.com/harozx/yt_downloader">
+        <a href="https://hanlog.xyz">
+          <img src="https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/harozx/front-end">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p><b>YouTube video downloader</b> — Desktop application for downloading videos with format selection and quality options.</p>
+      <p><b>Personal portfolio website</b> — Modern, animated portfolio with interactive UI, background music, and smooth transitions. Live at hanlog.xyz.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Macro Project</h3>
+      <h3 align="center">🗣️ VieNeu TTS</h3>
       <p align="center">
-        <a href="https://github.com/harozx/macro_project">
+        <a href="https://github.com/harozx">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p><b>Automation macro tool</b> — Python-based automation scripts for repetitive tasks and workflow optimization.</p>
+      <p><b>Vietnamese Text-to-Speech tool</b> — AI-powered TTS with voice cloning, batch video processing, and a Gradio web interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-412991?style=flat-square"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔗 Bio Link Pages</h3>
+      <h3 align="center">🤖 Automation Tools</h3>
       <p align="center">
-        <a href="https://github.com/harozx/reuse">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://github.com/harozx/macro_project">
+          <img src="https://img.shields.io/badge/Macro-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://github.com/harozx/bio_capcut">
-          <img src="https://img.shields.io/badge/View_Repo_2-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://github.com/harozx/yt_downloader">
+          <img src="https://img.shields.io/badge/YT_Download-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p><b>Premium bio link pages</b> — Mobile-optimized landing pages with glassmorphism design, animated backgrounds, and social media integration.</p>
+      <p><b>Python automation collection</b> — Macro automation scripts, YouTube video downloader, and workflow optimization tools.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square"/>
       </p>
     </td>
     <td width="50%">

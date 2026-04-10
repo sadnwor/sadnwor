@@ -204,7 +204,7 @@ fun_fact: "I balance writing code with capturing life through a camera lens 📸
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harozx&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harozx&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 </p>
 
 ---

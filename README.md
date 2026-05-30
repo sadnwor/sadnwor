@@ -9,7 +9,7 @@ Software Engineer based in Vietnam, focused on building clean, efficient, and ma
 ### 🧑‍💻 About Me
 - **Focus:** I specialize in developing full-stack applications, with a strong focus on backend robustness and clean user interfaces.
 - **Interests:** Enthusiastic about automation, system design, and building tools that solve real-world problems.
-- **Background:** Studying Information Technology at VinUniversity. Outside of coding, I capture life through a camera lens 📸.
+- **Background:** Studying Information Technology at FPT. Outside of coding, I capture life through a camera lens 📸.
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, TypeScript
